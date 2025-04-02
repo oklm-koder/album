@@ -1,0 +1,13 @@
+body{
+    background-color: beige;
+}
+
+h1{background-color: blue;
+
+}
+
+img{
+    width: 50%;
+height: 70%;
+object-fit: contain;
+}
